@@ -1,5 +1,7 @@
+Apenas teste para que mostre que essa é a terceira vez em que estou commitand pasta chamada "Anotações 3.0"
+
 Link para download do Git:
-cd tab
+
 https://git-scm.com/download/win
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
@@ -14,7 +16,7 @@ git status *erro*
 
 git add -A
 
-git status *certo*
+git status *certo*gitc git p
 
 git commit -m "inclusão das anotações do curso de Git/GitHub"
 
