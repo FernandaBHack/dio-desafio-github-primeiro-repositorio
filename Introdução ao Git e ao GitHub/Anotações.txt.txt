@@ -1,5 +1,26 @@
 Link para download do Git:
-
+cd tab
 https://git-scm.com/download/win
 
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Basicamente para adicionar, os comandos são:
+
+git clone *paste*
+
+cd tab *dio-desafio-github-primeiro-repositorio/*
+
+git status *erro*
+
+git add -A
+
+git status *certo*
+
+git commit -m "inclusão das anotações do curso de Git/GitHub"
+
+git push origin main
+
+
+
+
+
